@@ -59,5 +59,5 @@ Code will be uploaded after competition is over
      <td><img src="https://github.com/syed-naqi-abbas/nxp_aim/blob/main/photo2.png" height="228" width="400"></td>
   </tr>
 </table>
-<b>Video 1 :</b><a href="https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_2.mp4">Link</a><br>
-<b>**Video 2 :</b><a href="https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_3.mp4">Link</a>
+<b>Video 1 : </b><a href="https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_2.mp4">https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_2.mp4</a><br>
+<b>Video 2 : </b><a href="https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_3.mp4">https://github.com/syed-naqi-abbas/nxp_aim/blob/main/warehouse_3.mp4</a>
